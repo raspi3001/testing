@@ -1,2 +1,2 @@
 # testing
-For testing perposes only
+For testing purposes only
